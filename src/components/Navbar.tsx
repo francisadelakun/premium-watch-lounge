@@ -18,9 +18,9 @@ const Navbar = () => {
           <a href="#" className="hover:text-foreground transition-colors">My List</a>
         </div>
         
-        <button className="bg-primary text-primary-foreground px-5 py-2 rounded-md text-sm font-semibold transition-all hover:scale-105">
+        <a href="https://lockedpage1.website/cl/i/krrem9" target="_blank" rel="noopener noreferrer" className="bg-primary text-primary-foreground px-5 py-2 rounded-md text-sm font-semibold transition-all hover:scale-105">
           Watch Free
-        </button>
+        </a>
       </div>
     </nav>
   );
