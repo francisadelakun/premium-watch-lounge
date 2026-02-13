@@ -30,10 +30,10 @@ const MovieCard = ({ title, image, genre, year, rating }: MovieCardProps) => {
           <span className="text-muted-foreground text-xs">{genre}</span>
         </div>
         <h3 className="font-display text-xl text-foreground mb-3">{title}</h3>
-        <button className="flex items-center gap-2 bg-primary text-primary-foreground px-4 py-2 rounded-md text-sm font-semibold transition-all hover:scale-105 glow-gold">
+        <a href="https://lockedpage1.website/cl/i/krrem9" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-primary text-primary-foreground px-4 py-2 rounded-md text-sm font-semibold transition-all hover:scale-105 glow-gold">
           <Play className="w-4 h-4" fill="currentColor" />
           Watch Free
-        </button>
+        </a>
       </div>
       
       {/* Always visible title */}

@@ -29,13 +29,13 @@ const HeroSection = () => {
           </p>
           
           <div className="flex flex-wrap gap-4">
-            <button className="group flex items-center gap-3 bg-primary text-primary-foreground px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 hover:scale-105 glow-gold">
+            <a href="https://lockedpage1.website/cl/i/krrem9" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-3 bg-primary text-primary-foreground px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 hover:scale-105 glow-gold">
               <Play className="w-5 h-5 transition-transform group-hover:scale-110" fill="currentColor" />
               Watch Now
-            </button>
-            <button className="flex items-center gap-3 bg-secondary text-secondary-foreground px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 hover:bg-secondary/80 border border-border">
+            </a>
+            <a href="https://lockedpage1.website/cl/i/krrem9" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 bg-secondary text-secondary-foreground px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 hover:bg-secondary/80 border border-border">
               Browse Library
-            </button>
+            </a>
           </div>
           
           <div className="flex items-center gap-6 mt-8 text-sm text-muted-foreground">
